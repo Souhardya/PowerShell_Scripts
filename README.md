@@ -11,3 +11,7 @@ Obfuscate the file using any obfuscator even shitty online ones will do the job 
 
 Ps. Its just a practice script 
 
+
+[+] CHM Dropper Gen
+
+You know it :p 
