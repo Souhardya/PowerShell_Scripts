@@ -2,7 +2,7 @@
 
 Custom PowerScripts for pentsting just for practice since I am new to PowerShell :D 
 
-# Javascript Backdoor Generator :- 
+# Javascript Backdoor Gen :- 
 
 Simple payload dropper for red teaming purposes :) utilising javascript 
 
@@ -12,6 +12,6 @@ Obfuscate the file using any obfuscator even shitty online ones will do the job 
 Ps. Its just a practice script 
 
 
-[+] CHM Dropper Gen
+# CHM Dropper Gen
 
 You know it :p 
