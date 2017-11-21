@@ -16,4 +16,4 @@ $cmd = @"
 
 Out-File -InputObject $cmd -FilePath $OutputPath -Encoding default
 
-Write-Output "[+] File has been written to $env:APPDATA\Desktop\$filename [+]"
+Write-Output "[+] File has been written to $env:USERPROFILE\Desktop\$filename [+]"
