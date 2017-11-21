@@ -2,7 +2,7 @@
 
 Custom PowerScripts for pentsting just for practice since I am new to PowerShell :D 
 
-[+] Javascript Backdoor Generator :- 
+# Javascript Backdoor Generator :- 
 
 Simple payload dropper for red teaming purposes :) utilising javascript 
 
